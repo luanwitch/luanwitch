@@ -9,8 +9,8 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=REPO1&theme=dark)](https://github.com/SEU_USUARIO_GITHUB/REPO1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=REPO2&theme=dark)](https://github.com/SEU_USUARIO_GITHUB/REPO2)
+[![Readme Card](https://clonesitedadisney.netlify.app/)](https://github.com/SEU_USUARIO_GITHUB/REPO1)
+[![Readme Card](https://projeto14-indol.vercel.app/)](https://github.com/SEU_USUARIO_GITHUB/REPO2)
 
 ### Linguagens utilizadas
 
