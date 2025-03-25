@@ -9,8 +9,8 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 
 ### Projetos
 
-[![Readme Card](https://clonesitedadisney.netlify.app/)](https://github.com/SEU_USUARIO_GITHUB/REPO1)
-[![Readme Card](https://projeto14-indol.vercel.app/)](https://github.com/SEU_USUARIO_GITHUB/REPO2)
+[![Clone Disney](https://img.shields.io/badge/Projeto-Clone%20Disney-blue?style=for-the-badge)](https://clonesitedadisney.netlify.app/)
+[![Projeto 14](https://img.shields.io/badge/Projeto-Projeto%2014-purple?style=for-the-badge)](https://projeto14
 
 ### Linguagens utilizadas
 
