@@ -5,7 +5,7 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)][![Projeto 14](https://img.shields.io/badge/Projeto-Projeto%2014-purple?style=for-the-badge)](https://projeto14-indol.vercel.app/)
 
 ### Projetos
 
