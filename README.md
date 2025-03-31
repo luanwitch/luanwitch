@@ -3,10 +3,6 @@
 ###### Sobre mim
 Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em diversas tecnologias voltadas para aplicações web, APIs, automações e infraestrutura. Minha trajetória inclui trabalhos com Django, Flask, React.js, além de ferramentas para versionamento e integração contínua.
 
-### Detalhes
-
-
-
 ### Projetos
 
 [![Clone Disney](https://img.shields.io/badge/Projeto-Clone%20Disney-blue?style=for-the-badge)](https://clonesitedadisney.netlify.app/)
