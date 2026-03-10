@@ -9,10 +9,10 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 [![Projeto 14](https://img.shields.io/badge/Projeto-Projeto%2014-purple?style=for-the-badge)](https://projeto14-indol.vercel.app/)
 [![Live Demo](https://img.shields.io/badge/Demo-Twitter%20Clone-success?style=for-the-badge)](https://academic-tweet-clone.vercel.app/login)
 
+## Linguagens utilizadas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwitch&layout=compact&theme=tokyonight)
 
-
-### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
