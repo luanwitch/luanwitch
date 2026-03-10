@@ -11,9 +11,6 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 
 ## Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwitch&layout=compact&theme=tokyonight)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias & Ferramentas
