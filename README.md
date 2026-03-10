@@ -7,6 +7,8 @@ Tenho experiência em desenvolvimento Fullstack Python, com conhecimento em dive
 
 [![Clone Disney](https://img.shields.io/badge/Projeto-Clone%20Disney-blue?style=for-the-badge)](https://clonesitedadisney.netlify.app/)
 [![Projeto 14](https://img.shields.io/badge/Projeto-Projeto%2014-purple?style=for-the-badge)](https://projeto14-indol.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Twitter%20Clone-success?style=for-the-badge)](https://seu-projeto.vercel.app/)
+
 
 
 ### Linguagens utilizadas
